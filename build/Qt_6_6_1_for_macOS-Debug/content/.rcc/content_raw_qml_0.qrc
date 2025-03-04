@@ -3,6 +3,7 @@
     <file alias="App.qml">/Users/benjaminmelville/projects/jeep/content/App.qml</file>
     <file alias="Screen01.ui.qml">/Users/benjaminmelville/projects/jeep/content/Screen01.ui.qml</file>
     <file alias="fonts/fonts.txt">/Users/benjaminmelville/projects/jeep/content/fonts/fonts.txt</file>
+    <file alias="images/jeep-backsplash.jpg">/Users/benjaminmelville/projects/jeep/content/images/jeep-backsplash.jpg</file>
   </qresource>
 </RCC>
 

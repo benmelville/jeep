@@ -5,10 +5,4 @@ import QtQuick
 import content
 
 App {
-    Rectangle {
-        x: 100; y: 50
-        height: 100
-        width: height * 2
-        color: "lightblue"
-    }
 }

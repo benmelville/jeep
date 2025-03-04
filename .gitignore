@@ -29,9 +29,10 @@ ui_*.h
 *.jsc
 Makefile*
 *build-*
+*build*
 *.qm
 *.prl
-.DS_Store
+*.DS_Store*
 
 # Qt unit tests
 target_wrapper.*

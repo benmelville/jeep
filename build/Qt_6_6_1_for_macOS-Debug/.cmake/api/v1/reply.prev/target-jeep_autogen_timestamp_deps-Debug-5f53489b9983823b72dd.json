@@ -1,0 +1,38 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"imports/jeep/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "jeep_tooling::@f110023b34cfbdb2a624"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "jeep_autogen_timestamp_deps::@f110023b34cfbdb2a624",
+	"isGeneratorProvided" : true,
+	"name" : "jeep_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "imports/jeep",
+		"source" : "imports/jeep"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
