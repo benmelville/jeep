@@ -1,0 +1,120 @@
+{
+	"BUILD_DIR" : "/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/jeepplugin_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/benjaminmelville/projects/jeep/imports/jeep",
+	"CMAKE_EXECUTABLE" : "/Users/benjaminmelville/Qt/Tools/CMake/CMake.app/Contents/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/benjaminmelville/projects/jeep/imports/jeep/CMakeLists.txt",
+		"/Users/benjaminmelville/Qt/6.6.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/Users/benjaminmelville/Qt/6.6.1/macos/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in",
+		"/Users/benjaminmelville/Qt/6.6.1/macos/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
+		"/Users/benjaminmelville/Qt/6.6.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/Users/benjaminmelville/Qt/6.6.1/macos/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/benjaminmelville/projects/jeep",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/jeepplugin_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "jeepplugin_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/jeepplugin_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/jeepplugin_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_NETWORK_LIB",
+		"QT_PLUGIN",
+		"QT_QMLINTEGRATION_LIB",
+		"QT_QML_LIB",
+		"QT_STATICPLUGIN"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/benjaminmelville/Qt/6.6.1/macos/lib/QtQml.framework/Headers",
+		"/Users/benjaminmelville/Qt/6.6.1/macos/lib/QtQml.framework",
+		"/Users/benjaminmelville/Qt/6.6.1/macos/lib/QtCore.framework/Headers",
+		"/Users/benjaminmelville/Qt/6.6.1/macos/lib/QtCore.framework",
+		"/Users/benjaminmelville/Qt/6.6.1/macos/mkspecs/macx-clang",
+		"/Users/benjaminmelville/Qt/6.6.1/macos/include",
+		"/Users/benjaminmelville/Qt/6.6.1/macos/include/QtQmlIntegration",
+		"/Users/benjaminmelville/Qt/6.6.1/macos/lib/QtNetwork.framework/Headers",
+		"/Users/benjaminmelville/Qt/6.6.1/macos/lib/QtNetwork.framework",
+		"/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT"
+	],
+	"MOC_OPTIONS" : [ "-Muri=jeep" ],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+		"-dM",
+		"-E",
+		"-c",
+		"/Users/benjaminmelville/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/jeepplugin_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/.rcc/qmlcache/jeep_Constants_qml.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/.rcc/qmlcache/jeep_DirectoryFontLoader_qml.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/.rcc/qmlcache/jeep_EventListModel_qml.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/.rcc/qmlcache/jeep_EventListSimulator_qml.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/.rcc/qrc_jeep_raw_qml_0.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/.rcc/qrc_qmake_jeep.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/jeep_autogen/mocs_compilation.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/jeep_qmltyperegistrations.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/jeep_resources_1_autogen/mocs_compilation.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/CMakeFiles/jeepplugin_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/benjaminmelville/Qt/6.6.1/macos/./libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 6,
+	"SETTINGS_FILE" : "/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/CMakeFiles/jeepplugin_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/jeepplugin_jeepPlugin.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : 
+	[
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/.rcc/qmlcache/jeep_Constants_qml.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/.rcc/qmlcache/jeep_DirectoryFontLoader_qml.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/.rcc/qmlcache/jeep_EventListModel_qml.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/.rcc/qmlcache/jeep_EventListSimulator_qml.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/.rcc/qrc_jeep_raw_qml_0.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/.rcc/qrc_qmake_jeep.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/jeep_autogen/mocs_compilation.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/jeep_qmltyperegistrations.cpp",
+		"/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/imports/jeep/jeep_resources_1_autogen/mocs_compilation.cpp"
+	],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

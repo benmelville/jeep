@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/jeep/">
+    <file alias="Constants.qml">/Users/benjaminmelville/projects/jeep/imports/jeep/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">/Users/benjaminmelville/projects/jeep/imports/jeep/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">/Users/benjaminmelville/projects/jeep/imports/jeep/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">/Users/benjaminmelville/projects/jeep/imports/jeep/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

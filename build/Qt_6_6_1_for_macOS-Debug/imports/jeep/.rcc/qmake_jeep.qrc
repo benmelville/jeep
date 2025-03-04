@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/jeep">
+    <file alias="qmldir">/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/qml/jeep/qmldir</file>
+  </qresource>
+</RCC>
+

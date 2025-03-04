@@ -1,0 +1,15 @@
+-rootPath
+/Users/benjaminmelville/projects/jeep
+-cmake-output
+-output-file
+/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_jeepApp.cmake
+-importPath
+/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/qml/Main
+-importPath
+/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/qml
+-importPath
+/Users/benjaminmelville/Qt/6.6.1/macos/./qml
+-qrcFiles
+/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/.rcc/configuration.qrc
+/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/.rcc/qmake_Main.qrc
+/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/.rcc/jeepApp_raw_qml_0.qrc

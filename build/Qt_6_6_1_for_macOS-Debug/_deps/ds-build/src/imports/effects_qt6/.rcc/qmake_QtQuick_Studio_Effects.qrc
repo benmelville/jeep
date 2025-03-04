@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/Studio/Effects">
+    <file alias="qmldir">/Users/benjaminmelville/projects/jeep/build/Qt_6_6_1_for_macOS-Debug/qml/QtQuick/Studio/Effects/qmldir</file>
+  </qresource>
+</RCC>
+
