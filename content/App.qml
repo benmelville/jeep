@@ -6,6 +6,7 @@ import QtQuick.Controls
 import jeep
 
 Window {
+    id: window
     width: Constants.width
     height: Constants.height
 
@@ -55,12 +56,14 @@ Window {
         property int numBars: 100  // Number of gauge segments
 
         Column {
-            anchors.centerIn: parent
+            anchors {
+                centerIn: parent
+            }
+
             spacing: 20
 
             Row {
                 spacing: 5
-                anchors.horizontalCenter: parent
 
                 Repeater {
                     model: numBars
@@ -73,7 +76,7 @@ Window {
                         property int threshold: ((index + 1) * (maxRPM / numBars))
 
                         // Set color based on RPM value
-                        color: rpm >= threshold ? (threshold < 5000 ? "green" :
+                        color: rpm >= threshold ? (threshold < 5000 ? "orange" :
                                                    threshold < 7000 ? "yellow" :
                                                    "red") : "gray"
 
